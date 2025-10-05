@@ -60,7 +60,7 @@ This project delivers a comprehensive mobile-first e-commerce solution that rede
 
 The application follows a modular architecture with clear separation of concerns:
 
-![System Architecture](screenshots/Image1.png)
+![System Architecture](screenshots/image1.png)
 
 ## 🛠️ Technology Stack
 
