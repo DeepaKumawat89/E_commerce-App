@@ -90,84 +90,12 @@ dependencies:
   flutter_secure_storage: ^latest
 
 
-## 📸 Screenshots
+## 📸 App Preview
 
-### Authentication
-<!-- ![Login Screen](screenshots/LoginScreen.png) -->
-<!-- ![SignUp Screen](screenshots/SignUpScreen.png) -->
-<!-- ![ForgotPassword Screen](screenshots/ForgotPasswordScreen.png)-->
+<p align="center">
+  <img src="E-Commerce App.png" width="850" alt="App Preview"/>
+</p>
 
- <table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/LoginScreen.png" width="320" alt="Login Screen"/><br/>
-      <b>Login Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/SignUpScreen.png" width="320" alt="SignUp Screen"/><br/>
-      <b>SignUp Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/ForgotPasswordScreen.png" width="320" alt="Forgot Password Screen"/><br/>
-      <b>Forgot Password Screen</b>
-    </td>
-  </tr>
-</table>
-
-
-### Product Browsing
- <table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/HomeScreen.png" width="320" alt="Home Screen"/><br/>
-      <b>Home Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/ProductDetailScreen.png" width="320" alt="Product Detail Screen"/><br/>
-      <b>Product Detail Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/CartScreen.png" width="320" alt="Cart Screen"/><br/>
-      <b>Cart Screen</b>
-    </td>
-  </tr>
-</table>
-
-### Shopping Experience
- <table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/OrderScreen.png" width="320" alt="Order Screen"/><br/>
-      <b>Order Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/WishlistScreen.png" width="320" alt="Wishlist Screen"/><br/>
-      <b>Wishlist Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/AddressScreen.png" width="320" alt="Address Screen"/><br/>
-      <b>Address Screen</b>
-    </td>
-  </tr>
-</table>
-
-### User Profile
- <table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/ProfileScreen.png" width="320" alt="Profile Screen"/><br/>
-      <b>Profile Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/PaymentMethodScreen.png" width="320" alt="PaymentMethod Screen"/><br/>
-      <b>PaymentMethod Screen</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/Help&SupportScreen.png" width="320" alt="Help & Support Screen"/><br/>
-      <b>Help & Support Screen</b>
-    </td>
-  </tr>
-</table>
 
 ## 🚀 Getting Started
 
